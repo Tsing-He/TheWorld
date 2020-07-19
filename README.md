@@ -20,15 +20,14 @@ TheWorld Minecraft相关文档
 
    3.1 打开角色界面
 
-<img src="C:\Users\Qing_He\Desktop\QQ图片20200719164820.png" alt="QQ图片20200719164820" style="zoom:25%;" />
+![2.1-1](https://github.com/Tsing-He/TheWorld/blob/master/1.png)
 
 ​		3.2 创建新角色
 
-<img src="C:\Users\Qing_He\AppData\Roaming\Typora\typora-user-images\image-20200719164922933.png" alt="image-20200719164922933" style="zoom:25%;" />
-
+![2.1-2](https://github.com/Tsing-He/TheWorld/blob/master/2.png)
 ​		3.3 输入角色名
 
-<img src="C:\Users\Qing_He\AppData\Roaming\Typora\typora-user-images\image-20200719165032276.png" alt="image-20200719165032276" style="zoom:25%;" />
+![2.1-3](https://github.com/Tsing-He/TheWorld/blob/master/3.png)
 
 ​		3.4 确认后按上方向左箭头返回主界面，点击启动游戏。（_注：若您在此步出现问题，请前往**2.3.2 从启动器内启动游戏时出现问题**寻找解决方案_）
 
